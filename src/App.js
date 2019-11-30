@@ -1,15 +1,31 @@
 import React from 'react';
 import './App.css';
+import {Route, Redirect, Switch} from "react-router-dom";
 import NavBar from "./Components/NavBar";
-import Body from "./Components/Body";
+import Home from "./Components/Home";
 import Footer from "./Components/Footer";
+import About from "./Components/About";
 import { MainDiv } from "./Styled-Components/StyledElements";
+
+// function Routes (){
+//   return (
+//     <Router>
+//       <div>
+//         <Switch>
+//           <Route exact path="/" component={Home}/>
+//           <Route path="/about" component={About}/>
+//         </Switch>
+//       </div>
+//     </Router>
+//   )
+// }
 
 function App() {
   return (
     <MainDiv >
       <NavBar/>
-      <Body/>
+      <Route exact path="/" component={Home}/>
+      <Route path="/about" component={About}/>
       <Footer/>
     </MainDiv>
   );

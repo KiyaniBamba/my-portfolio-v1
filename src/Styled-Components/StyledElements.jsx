@@ -60,4 +60,30 @@ export const FooterDivLink = styled.div`
     margin-top: 2em;
 `
 
+// Styled About page : 
 
+export const AboutDiv = styled.div`
+    margin:20%;
+    margin-top:8%;
+    font-weight: bold;
+    font-size: 25px;
+`
+
+export const Image = styled.div`
+    border: 2px solid black;
+    text-aign:center;
+    padding:15px;
+`
+
+export const P = styled.p`
+    font-weight: normal;
+  `
+  
+export const H3 = styled.h3`
+  font-weight: bold;
+`
+
+export const H2 =styled.h2`
+  font-size: 45px;
+  font-weight: bold;
+`
