@@ -73,6 +73,7 @@ export const Image = styled.div`
     border: 2px solid black;
     text-aign:center;
     padding:15px;
+    margin-top: 10%;
 `
 
 export const P = styled.p`
