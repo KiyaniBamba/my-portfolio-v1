@@ -43,7 +43,7 @@ const About = () => {
         </AboutDiv>
         <Image>
             <h1>
-            Add une photo de moi en mode paysage
+            Note: ajouter une photo de moi en mode paysage
             </h1>
         </Image>
         <AboutDiv>

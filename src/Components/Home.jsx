@@ -13,7 +13,7 @@ const Body = () => {
 
             <Image>
             <h1>
-            Add projects.
+            Note: ajouter projects. Add at least 2 projects before 2020 patate.
             </h1>
         </Image>
 
