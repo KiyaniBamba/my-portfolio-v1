@@ -21,10 +21,10 @@ const NavBar = () => {
                 <a class="nav-item" href="./">Kiyani.</a>
                 </DivNav1>
                 <DivNav2>
-                    <NavLink class="nav-item" to="/about">About</NavLink>
+                    <a class="nav-item" href="/about"> about </a>
                     <Link class="nav-item" href="#">resume</Link>
                     <a class="nav-item" href="https://kiyanirandomfinds.substack.com/about?utm_source=menu-dropdown">newsletter</a>
-                    <a class="nav-item" href="mailto:bamba.kiyani@gmail.com">Email</a>
+                    <a class="nav-item" href="mailto:bamba.kiyani@gmail.com"> email</a>
                 </DivNav2>
             </DivNav>
     </div>

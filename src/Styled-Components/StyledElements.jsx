@@ -78,7 +78,12 @@ export const Image = styled.div`
 export const P = styled.p`
     font-weight: normal;
   `
-  
+
+  export const H1 = styled.h3`
+  font-weight: bold;
+  font-size: 60px;
+`
+
 export const H3 = styled.h3`
   font-weight: bold;
 `

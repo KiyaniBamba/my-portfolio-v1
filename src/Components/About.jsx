@@ -51,7 +51,7 @@ const About = () => {
             <br/>
 
             <H3> Where are you from?</H3>
-            <P> I am French-Ivoirian and grow up in Abidjan, Côte d'Ivoire. Abidjan is called "Babi la joie" which means "Abidjan the joyful". We have stunning beaches, good music and good food, you should visit.</P>
+            <P> I am French-Ivoirian and grew up in Abidjan, Côte d'Ivoire. Abidjan is called "Babi la joie" which means "Abidjan the joyful". We have stunning beaches, good music and good food.</P>
             <br/>
 
             <H3> Any favorite foods? </H3>
