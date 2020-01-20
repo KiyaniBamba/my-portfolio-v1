@@ -5,12 +5,23 @@
   background-color: #5C97BF;
 }
 
+
+/* mouse over link */
+a:hover {
+  color: rgb(231, 175, 21);
+  text-decoration: none
+}
+
+
+
+
 .nav-item{
   align-content: space-around;
   text-decoration: none;
   list-style: none;
   margin-right: 18px;
   color:black;
+  
   
 }
 

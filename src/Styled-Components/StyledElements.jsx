@@ -41,7 +41,7 @@ export const DivNav1 = styled.div`
 export const BodyNav = styled.div`
     font-weight: bold;    
     font-size: 65px;
-    margin-bottom: 240px;
+    margin-bottom: 40px;
     padding-top: 100px;
 `;
 
@@ -57,13 +57,16 @@ export const FooterDiv = styled.div`
 `;
 
 export const FooterDivLink = styled.div`
-    margin-top: 2em;
+    margin-top: 1em;
 `
 
 // Styled About page : 
 
 export const AboutDiv = styled.div`
-    margin:20%;
+    margin-top:20%;
+    margin-left:20%;
+    margin-right:20%;
+    margin-bottom:10%;
     margin-top:8%;
     font-weight: bold;
     font-size: 25px;

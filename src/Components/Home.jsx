@@ -7,15 +7,14 @@ const Body = () => {
         <BodyNav>
             Hi, I am Ki. <br/>
             I'm a french-ivoirian full stack developer, and I like to build fun and useful things. 
-            <br/>
-            <br/>
-            <H3>Showcase: </H3>
-
-            <Image>
-            <h1>
-            Note: ajouter projects. Add at least 2 projects before 2020 patate.
-            </h1>
-        </Image>
+            {/* <br/> */}
+            {/* <br/> */}
+            {/* <H3>Showcase: </H3> */}
+                {/* <Image>
+                <h1>
+                Note: ajouter projects. Add at least 2 projects before 2020 patate.
+                </h1>
+                </Image> */}
 
         </BodyNav>
     )

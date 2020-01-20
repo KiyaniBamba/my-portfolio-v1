@@ -2,6 +2,7 @@ import React from "react";
 import '../App.css';
 import { AboutDiv, Image, P, H3, H2  } from "../Styled-Components/StyledElements";
 import gif from "../Styled-Components/giphyhooked.gif";
+import moiGiphy from "../Styled-Components/moi_giphy.gif";
 import moi from "../Styled-Components/kiph.mp4";
 
 const About = () => {
@@ -35,17 +36,26 @@ const About = () => {
         <br/>
         <br/>
 
-        In the meantime, I am having fun building side-projects and writing about the (African) tech industry.
+        I am particularly interested to work on products:  <br/><br/>
+        - Helping people regain their financial independence. This includes tools that empower entrepreneurs, especially those working in informal markets.  <br/>
+        - Focusing on agriculture and improving the production of farms - I think that agritech is an underestimated sector with very high impact.  <br/>
+        - Creating strong online communities and helping people find their social tribe.
+
+        {/* I am particularly interested in three types of products/services. The first type are products that helps people regain their financial independence. This includes tools that empower entrepreneurs, especially those working in informal markets. The second type concerns products focused on agriculture and improving the production of farms. I think that agritech is an underestimated sector with very high impact. And finally, I would like to work on a product that helps people find their social tribe and create strong online communities based on people's interest. */}
+
+        <br/>
+        <br/>
+
+        Pending the possibility of joining a company in one of these areas, I am having fun building side-projects and writing about the (African) tech industry.
 
         {/* <video class="tab" controls>Your browser does not support the &lt;video&gt; tag.
             <source src={moi}/>
         </video> */}
         </AboutDiv>
-        <Image>
-            <h1>
-            Note: ajouter une photo de moi en mode paysage
-            </h1>
-        </Image>
+        {/* <Image> */}
+            <img src={moiGiphy} class="giph" alt="loading..." />
+        <br/>
+        {/* </Image> */}
         <AboutDiv>
             <H2> Small talk </H2>
             <br/>
@@ -59,7 +69,7 @@ const About = () => {
             <br/>
 
             <H3> What books are you reading at the moment? </H3>
-            <P>Confessions of an Advertising Man by David Ogilvy and the art of game design by Jesse Schell.</P>
+            <P>Confessions of an Advertising Man by David Ogilvy and The Art of Game Design by Jesse Schell.</P>
             <br/>
 
             <H3> Anything you would like to add? </H3>
