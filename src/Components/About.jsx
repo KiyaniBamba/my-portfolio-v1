@@ -41,8 +41,6 @@ const About = () => {
         - Focusing on agriculture and improving the production of farms - I think that agritech is an underestimated sector with very high impact.  <br/>
         - Creating strong online communities and helping people find their social tribe.
 
-        {/* I am particularly interested in three types of products/services. The first type are products that helps people regain their financial independence. This includes tools that empower entrepreneurs, especially those working in informal markets. The second type concerns products focused on agriculture and improving the production of farms. I think that agritech is an underestimated sector with very high impact. And finally, I would like to work on a product that helps people find their social tribe and create strong online communities based on people's interest. */}
-
         <br/>
         <br/>
 
