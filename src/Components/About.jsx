@@ -36,7 +36,7 @@ const About = () => {
         <br/>
         <br/>
 
-        Pending the possibility of joining a company in one of these areas, I am having fun building side-projects and writing about the (African) tech industry.
+        In the meantime, I am having fun building side-projects and writing about the (African) tech industry.
 
         {/* <video class="tab" controls>Your browser does not support the &lt;video&gt; tag.
             <source src={moi}/>
