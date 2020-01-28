@@ -36,11 +36,6 @@ const About = () => {
         <br/>
         <br/>
 
-        I am particularly interested to work on products:  <br/><br/>
-        - Helping people regain their financial independence. This includes tools that empower entrepreneurs, especially those working in informal markets.  <br/>
-        - Focusing on agriculture and improving the production of farms - I think that agritech is an underestimated sector with very high impact.  <br/>
-        - Creating strong online communities and helping people find their social tribe.
-
         <br/>
         <br/>
 

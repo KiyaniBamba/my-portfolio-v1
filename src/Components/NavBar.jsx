@@ -23,7 +23,7 @@ const NavBar = () => {
                 <DivNav2>
                     <a class="nav-item" href="/about"> about </a>
                     <a class="nav-item" href="https://drive.google.com/file/d/1yrZzwqLCI-AveEYRcZy9U54llgXWI3yr/view?usp=sharing">resume</a>
-                    <a class="nav-item" href="https://kiyanirandomfinds.substack.com/about?utm_source=menu-dropdown">newsletter</a>
+                    <a class="nav-item" href="https://kiyani.substack.com/about?utm_source=menu-dropdown">newsletter</a>
                     <a class="nav-item" href="mailto:bamba.kiyani@gmail.com"> email</a>
                 </DivNav2>
             </DivNav>
