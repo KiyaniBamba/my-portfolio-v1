@@ -9,7 +9,7 @@ const About = () => {
     return (
         <div> 
         <AboutDiv> 
-        I’m a full stack web developper from Côte d'Ivoire, currently studying at Lambda School. 
+        I’m a full stack web developer from Côte d'Ivoire, currently studying at Lambda School. 
         <br/>
         <br/>
 
