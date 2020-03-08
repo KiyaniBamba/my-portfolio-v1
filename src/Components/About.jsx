@@ -17,7 +17,7 @@ const About = () => {
         <br/>
         <br/>
 
-        So, I started looking for a more meaningful career. I participated and won a few startups competitions, went through two incubators and I was hook to the startup life. 
+        Anyhow, I started looking for a more meaningful career. I participated and won a few startups competitions, went through two incubators and I was hook to the startup life. 
         <br/>
         <br/>
 
@@ -31,7 +31,7 @@ const About = () => {
         <br/>
 
         My final goal is to be a product manager. Despite the fact that all PM do
-        not need to be developpers, learning to program will allow me to better work with engineers on my team.
+        not need to be developers, learning to program will allow me to better work with engineers on my team.
 
         <br/>
         <br/>
@@ -63,7 +63,7 @@ const About = () => {
             <br/>
 
             <H3> Anything you would like to add? </H3>
-            <P>I like to say that I play piano even though I didn't play seriously since 2012. I plan to get back to it in 2020 though.</P>
+            <P>I like to say that I play piano even though I didn't play seriously since 2012. I plan to get back to it in 2021 though.</P>
             <br/>
 
 
