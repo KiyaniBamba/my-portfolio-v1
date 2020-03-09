@@ -7,6 +7,13 @@ display: flex;
 flex-direction: column;
 margin-right: 20%;
 margin-left: 20%;
+
+@media (max-width: 600px) {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+
 `
 
 // Styled NavBar : 
@@ -43,21 +50,57 @@ export const BodyNav = styled.div`
     font-size: 65px;
     margin-bottom: 40px;
     padding-top: 100px;
+    @media (max-width: 600px) {
+        font-size: 35px;
+        margin-bottom: 60px;
+      }
 `;
 
 
 // Styled Footer : 
 
 export const FooterDiv = styled.div`
-    bottom: 0;
+    // bottom: 0;
     margin-bottom: 3em;
     margin-top: 40px;
     height: 80px;
     font-weight: bold;
+    // margin-right: 20%;
+    // margin-left: 20%;
+    
+
+    @media (max-width: 600px) {
+        margin-right: 5%;
+        margin-left: 5%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        h3 {
+            font-size:20px;
+        }
+      }
 `;
 
 export const FooterDivLink = styled.div`
     margin-top: 1em;
+    a {
+        align-content: space-around;
+        text-decoration: none;
+        list-style: none;
+        color:black;
+        margin-left: 15px; 
+    }
+    @media (max-width: 600px) {
+            display: flex;
+            flex-direction: column;
+            align-content: center;
+            margin-bottom: 10px;
+
+            a {
+                margin-left: 5px;
+            }
+        }
 `
 
 // Styled About page : 
@@ -70,6 +113,12 @@ export const AboutDiv = styled.div`
     margin-top:8%;
     font-weight: bold;
     font-size: 25px;
+    @media (max-width: 600px) {
+        font-size: 20px;
+        margin-left:5%;
+        margin-right:5%;
+    }
+
 `
 
 export const Image = styled.div`
