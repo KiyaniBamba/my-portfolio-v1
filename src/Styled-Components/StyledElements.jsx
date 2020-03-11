@@ -122,11 +122,75 @@ export const AboutDiv = styled.div`
 `
 
 export const Image = styled.div`
-    border: 2px solid black;
+    display:flex;
+    flex-direction: column;
     text-aign:center;
-    padding:15px;
+    // padding:15px;
     margin-top: 10%;
 `
+
+export const Project = styled.div`
+    display: flex;
+    // justify-content: space-between;
+    margin-bottom: 40px;
+    border: 2px solid black;
+    object-fit: contain;
+
+    .links-demo {
+        display:flex;
+        // justify-content: space-evenly;
+
+        a {
+            // align-content: space-around;
+            text-decoration: none;
+            list-style: none;
+            color:black;
+            font-size: large;
+            margin-right: 15px;
+        }
+        a:hover {
+            color: rgb(231, 175, 21);
+            text-decoration: none
+          }
+    }
+
+    .chatbot {
+        object-fit: contain;
+        background: #222222;
+        width: 368px;
+        height: 400px;
+    }
+
+    .text {
+        margin-left: 30px;
+
+        h2 {
+            font-size:25px;
+            font-weight:bold;
+        }
+
+        p {
+            font-size:15px;
+            font-weight: normal;
+        }
+    }
+
+    h2 {
+        font-size:20px;
+    }
+
+    p {
+        font-size:20px;  
+    }
+
+
+    @media (max-width: 600px) {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+`
+
 
 export const P = styled.p`
     font-weight: normal;

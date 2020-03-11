@@ -3,7 +3,6 @@ import '../App.css';
 import { AboutDiv, Image, P, H3, H2  } from "../Styled-Components/StyledElements";
 import gif from "../Styled-Components/giphyhooked.gif";
 import moiGiphy from "../Styled-Components/moi_giphy.gif";
-import moi from "../Styled-Components/kiph.mp4";
 
 const About = () => {
     return (
