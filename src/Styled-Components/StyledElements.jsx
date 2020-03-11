@@ -165,7 +165,7 @@ export const Project = styled.div`
         margin-left: 30px;
 
         h2 {
-            font-size:25px;
+            font-size: 30px;
             font-weight:bold;
         }
 

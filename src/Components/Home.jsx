@@ -21,6 +21,7 @@ const Body = () => {
                     </h2>
                     
                     <p>
+                        <br/>
                     In 2017, I read an alarming article on the number of early pregnancies in high schools in Côte d'Ivoire. When I read this article, I jumped to the conclusion that it came from a lack of sex education, so I built Sarah. Sarah is a chatbot targeting young Ivorians aged 9 to 18. It is created in Messenger and makes it possible to inform young people in a fun way about their relations with the opposite sex. <br/>
                     <br/>
 
