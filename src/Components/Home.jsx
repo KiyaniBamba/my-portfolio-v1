@@ -1,12 +1,13 @@
 import React from 'react';
 import { BodyNav, H3, Image, Project } from "../Styled-Components/StyledElements";
 import chatbot from "../Styled-Components/elements/chatbot.gif";
+import beyonce from "../Styled-Components/elements/beyonce.gif";
 
 const Body = () => {
     return (
         <BodyNav>
             Hi, I am Ki. <br/>
-            I'm a french-ivoirian full stack developer, and I like to build fun and useful things. 
+            I'm a french-ivoirian full stack developer, and I like to build things. 
             <br/>
             <br/>
             <H3> A few examples: </H3>
@@ -17,8 +18,9 @@ const Body = () => {
                 </div>  
                 <div className="text">
                     <h2>
-                        Sarah - an EdTech Chatbot
+                        Sarah 
                     </h2>
+                    <h3>an EdTech Chatbot</h3>
                     
                     <p>
                         <br/>
@@ -28,30 +30,40 @@ const Body = () => {
                     It was tested with a group of high school girls. After a series of interviews with these young girls, I realized that my solution was not the one they needed and I closed the bot. I wrote about my though process in an article (it's in french <i class="em em-laughing" aria-role="presentation" aria-label="SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES"></i> ).
                     </p>
                     <div className="links-demo">
-                    <a href="https://kiyanibamba.com/2018/10/"> Article. </a>
-                    <a href="https://app.botsociety.io/s/5ba3aab753567c07abee2ecd?p=f2ce95c3850bdce978637e78392916832a583eb9"> Demo. </a>
+                        <a href="https://kiyanibamba.com/2018/10/"> Article. </a>
+                        <a href="https://app.botsociety.io/s/5ba3aab753567c07abee2ecd?p=f2ce95c3850bdce978637e78392916832a583eb9"> Demo. </a>
                     </div>
 
                 </div>
                 </Project>
                 <Project>
-                <div>
+                <div className="beyonce-description">
                     <h2>
-                        Beyoncé's assistant - a RPG Game
+                        Being Beyoncé's Assistant 
                     </h2>
+                    <h3>a RPG Game</h3>
+
+                    
                     <p>
-                        Description
+                        <br/>
+                        This game train you to become Beyoncé’s assistant. We all know that Beyoncé is extremely demanding and she only works with the best among the best. On each "Bee case" you have to answer a multiple choice question. The goal is to answer the 10 questions correctly.
+                        <br/><br/>
+                        But if you make a mistake, you are immediately fired. And because Beyoncé doesn't give a second chance, you can't try again unless you create a new account.
+
                     </p>
-                    <p>
-                        Product. Github. Draft.
-                    </p>
+                    <div className="links-demo">
+                        <a href="https://github.com/Online-Game-CS/cs-bw1-frontend"> Github. </a>
+                        <a href="https://beyonce-game.bambakiyani.now.sh/"> Demo. </a>
+                        <a href="https://docs.google.com/document/d/1HJ_kgUshFXdGEEOQyALa_dVbzo1HRTB5ejyxOTf9wLc/edit?usp=sharing"> Product doc. </a>
+                    </div>
+
                 </div>
-                <div>
-                    image
-                </div>
+                <div >
+                    <img  src={beyonce} className="beyonce" alt="loading..." />  
+                </div>  
 
                 </Project>
-                <Project>
+                {/* <Project>
                 <div>
                     image
                 </div>
@@ -66,7 +78,7 @@ const Body = () => {
                         Github. Product Roadmap. 
                     </p>
                 </div>
-                </Project>
+                </Project> */}
             </Image>
 
         </BodyNav>

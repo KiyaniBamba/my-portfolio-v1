@@ -8,7 +8,7 @@ flex-direction: column;
 margin-right: 20%;
 margin-left: 20%;
 
-@media (max-width: 600px) {
+@media (max-width: 770px) {
     margin-right: 5%;
     margin-left: 5%;
   }
@@ -50,7 +50,7 @@ export const BodyNav = styled.div`
     font-size: 65px;
     margin-bottom: 40px;
     padding-top: 100px;
-    @media (max-width: 600px) {
+    @media (max-width: 770px) {
         font-size: 35px;
         margin-bottom: 60px;
       }
@@ -61,15 +61,13 @@ export const BodyNav = styled.div`
 
 export const FooterDiv = styled.div`
     // bottom: 0;
-    margin-bottom: 3em;
-    margin-top: 40px;
+    margin-bottom: 1em;
+    margin-top: 100px;
     height: 80px;
     font-weight: bold;
-    // margin-right: 20%;
-    // margin-left: 20%;
     
 
-    @media (max-width: 600px) {
+    @media (max-width: 770px) {
         margin-right: 5%;
         margin-left: 5%;
         display: flex;
@@ -89,9 +87,9 @@ export const FooterDivLink = styled.div`
         text-decoration: none;
         list-style: none;
         color:black;
-        margin-left: 15px; 
+        margin-right: 15px; 
     }
-    @media (max-width: 600px) {
+    @media (max-width: 770px) {
             display: flex;
             flex-direction: column;
             align-content: center;
@@ -113,7 +111,7 @@ export const AboutDiv = styled.div`
     margin-top:8%;
     font-weight: bold;
     font-size: 25px;
-    @media (max-width: 600px) {
+    @media (max-width: 770px) {
         font-size: 20px;
         margin-left:5%;
         margin-right:5%;
@@ -131,10 +129,11 @@ export const Image = styled.div`
 
 export const Project = styled.div`
     display: flex;
-    // justify-content: space-between;
     margin-bottom: 40px;
-    border: 2px solid black;
     object-fit: contain;
+    @media (max-width: 770px) {
+        margin-bottom:20px;
+    }
 
     .links-demo {
         display:flex;
@@ -159,11 +158,16 @@ export const Project = styled.div`
         background: #222222;
         width: 368px;
         height: 400px;
+        @media (max-width: 770px) {
+            width: 320px;
+        }
     }
 
-    .text {
-        margin-left: 30px;
-
+    .beyonce-description {
+        object-fit: contain;
+        width: 368px;
+        height: 400px;
+        margin-right:30px;
         h2 {
             font-size: 30px;
             font-weight:bold;
@@ -172,6 +176,47 @@ export const Project = styled.div`
         p {
             font-size:15px;
             font-weight: normal;
+        }
+        h3 {
+            font-style: italic;
+            font-size:22px;
+        }
+        @media (max-width: 770px) {
+            width: 320px;
+        }
+    }
+
+    .beyonce {
+        object-fit: contain;
+        background: #F8E332;
+        width: 482px;
+        height: 425px;
+        @media (max-width: 770px) {
+            width: auto;
+        }
+    }
+
+    .text {
+        margin-left: 30px;
+
+        @media (max-width: 770px) {
+            margin-left: 0px;
+            margin-top: 30px;
+            margin-bottom:20px;
+        }
+
+        h2 {
+            font-size: 30px;
+            font-weight:bold;
+        }
+
+        p {
+            font-size: 15px;
+            font-weight: normal;
+        }
+        h3 {
+            font-style: italic;
+            font-size:22px;
         }
     }
 
@@ -184,7 +229,7 @@ export const Project = styled.div`
     }
 
 
-    @media (max-width: 600px) {
+    @media (max-width: 770px) {
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
