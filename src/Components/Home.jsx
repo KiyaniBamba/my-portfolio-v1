@@ -52,7 +52,7 @@ const Body = () => {
 
                     </p>
                     <div className="links-demo">
-                        <a href="https://github.com/Online-Game-CS/cs-bw1-frontend"> Github. </a>
+                        <a href="https://github.com/Online-Game-CS/cs-bw1-frontend"> GitHub. </a>
                         <a href="https://beyonce-game.bambakiyani.now.sh/"> Demo. </a>
                         <a href="https://docs.google.com/document/d/1HJ_kgUshFXdGEEOQyALa_dVbzo1HRTB5ejyxOTf9wLc/edit?usp=sharing"> Product doc. </a>
                     </div>
