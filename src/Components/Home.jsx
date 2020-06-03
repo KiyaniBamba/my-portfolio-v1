@@ -2,12 +2,17 @@ import React from 'react';
 import { BodyNav, H3, Image, Project } from "../Styled-Components/StyledElements";
 import chatbot from "../Styled-Components/elements/chatbot.gif";
 import beyonce from "../Styled-Components/elements/beyonce.gif";
+import Emoji from "./Emoji";
 
 const Body = () => {
     return (
         <BodyNav>
-            Hi, I am Ki. <br/>
-           A problem solver, with experience as a startup founder and product lead.  
+           <h1>
+             Hi, I am Ki. <span>&#128075;</span><br/>
+            </h1>
+            <h2>
+           A problem solver, product lead, engineer and full stack developer.  
+            </h2>
             <br/>
             <br/>
             {/* <H3> A few examples: </H3> */}

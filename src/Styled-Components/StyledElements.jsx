@@ -47,11 +47,18 @@ export const DivNav1 = styled.div`
 
 export const BodyNav = styled.div`
     font-weight: bold;    
-    font-size: 65px;
+    h1 {
+        font-size: 5rem;
+        
+    }
+
+    h2 {
+        font-size: 2.5rem;
+    }
     margin-bottom: 40px;
     padding-top: 100px;
     @media (max-width: 770px) {
-        font-size: 35px;
+        font-size: 1rem;
         margin-bottom: 60px;
       }
 `;

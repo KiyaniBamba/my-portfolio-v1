@@ -12,7 +12,7 @@ const About = () => {
         <br/>
         <br/>
 
-        For the little story, I originally planned to do something totally different. I wanted to be a chemical engineer (!) But after my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to - Still, I graduated. 
+        For the little story, I originally planned to do something totally different. I wanted to be a chemical engineer (!). However, after my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to - Still, I graduated. 
         <br/>
         <br/>
 
@@ -24,13 +24,13 @@ const About = () => {
         <br/>
         <br/>
 
-        In order to seriously break into the startup world I needed new skills so I decided to learn to program. I got accepted to Lambda School in August 2019 and never turnt back. 
+        In order to seriously break into the startup world I needed new skills so I decided to learn to program. I was accepted into Lambda School's full stack web development cohort in August 2019 and never looked back.
 
         <br/>
         <br/>
+        My ultimate goal is to work as a product manager in a fast growing startup. I know I didn't need to be a developer to become a product manager, but learning how to program has given me a better understanding of how software works and will allowed me to work better with the engineers on my team.
 
-        My final goal is to work as a product manager in a startup. Although not all product managers need to be developers, learning to program has given me a better understanding of how software works and how to work better with the engineers on my team.
-        <br/>
+         <br/>
         <br/>
 
         In the meantime, I am having fun building side-projects and writing about the (African) tech industry.
