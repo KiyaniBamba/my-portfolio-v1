@@ -48,7 +48,7 @@ const About = () => {
             <br/>
 
             <H3> Where are you from?</H3>
-            <P> I am French-Ivoirian and grew up in Abidjan, Côte d'Ivoire. Abidjan is called "Babi la joie" which means "Abidjan the joyful". We have stunning beaches, good music and good food.</P>
+            <P> I am French-Ivoirian and grew up in Abidjan, Côte d'Ivoire. Abidjan is called "Babi la joie" which means "Abidjan the joyful". We have stunning beaches, good music and good food. You should visit!</P>
             <br/>
 
             <H3> Any favorite foods? </H3>
@@ -56,7 +56,7 @@ const About = () => {
             <br/>
 
             <H3> What books are you reading at the moment? </H3>
-            <P>Confessions of an Advertising Man by David Ogilvy and The Art of Game Design by Jesse Schell.</P>
+            <P>The Art of doing science and engineering by Richard W. Hamming and The old man and the sea by Ernest Hemingway.</P>
             <br/>
 
             <H3> Anything you would like to add? </H3>
