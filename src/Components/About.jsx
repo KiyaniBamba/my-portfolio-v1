@@ -8,15 +8,15 @@ const About = () => {
     return (
         <div> 
         <AboutDiv> 
-        I’m a product guy who know how to code. 
+        I work in product and I'm also a full stack web developer. 
         <br/>
         <br/>
 
-        I originally planned to be a chemical engineer, but after doing my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to (But I still got my diploma). 
+        For the little story, I originally planned to do something totally different. I wanted to be a chemical engineer (!) But after my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to - Still, I graduated. 
         <br/>
         <br/>
 
-        Anyhow, I started looking for a more meaningful career. I participated and won a few startups competitions, went through two incubators and I was hook to the startup life. 
+        Anyhow, armed with my strong analytical and communication skills from my engineering degree, I started looking for a more meaningful career. I participated and won a few startups competitions, went through two incubators and I was hook to the startup life. 
         <br/>
         <br/>
 
@@ -29,9 +29,7 @@ const About = () => {
         <br/>
         <br/>
 
-        My final goal is to be a product manager. Despite the fact that all PM do
-        not need to be developers, learning to program will allow me to better work with engineers on my team.
-
+        My final goal is to work as a product manager in a startup. Although not all product managers need to be developers, learning to program has given me a better understanding of how software works and how to work better with the engineers on my team.
         <br/>
         <br/>
 

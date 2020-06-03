@@ -7,9 +7,7 @@ const Body = () => {
     return (
         <BodyNav>
             Hi, I am Ki. <br/>
-           A problem solver, with 2 years of experience as a startup founder and entrepreneur. Engineering
-background provides strong analytical and communication skills. Recently completed a 9-month
-coding program to better understand how software works and use skills in real-world scenarios. 
+           A problem solver, with experience as a startup founder and product lead.  
             <br/>
             <br/>
             {/* <H3> A few examples: </H3> */}
