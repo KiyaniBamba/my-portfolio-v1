@@ -5,12 +5,12 @@ import styled from "styled-components";
 export const MainDiv = styled.div`
 display: flex;
 flex-direction: column;
-margin-right: 20%;
-margin-left: 20%;
+margin-right: 40vh;
+margin-left: 40vh;
 
 @media (max-width: 770px) {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 7vh;
+    margin-left: 7vh;
   }
 
 
@@ -26,8 +26,8 @@ outline: none;
 text-decoration: none;
 list-style: none;
 background-color: transparent;
-padding-top: 50px;
-padding-bottom: 50px;
+padding-top: 5vh;
+padding-bottom: 10vh;
 font-weight: bold;
 font-size: large;
 `; 
@@ -49,11 +49,17 @@ export const BodyNav = styled.div`
     font-weight: bold;    
     h1 {
         font-size: 5rem;
-        
+        @media (max-width: 770px) {
+            font-size: 4rem;
+          }
+
     }
 
     h2 {
         font-size: 2.5rem;
+        @media (max-width: 770px) {
+            font-size: 2rem;
+          }
     }
     margin-bottom: 40px;
     padding-top: 100px;

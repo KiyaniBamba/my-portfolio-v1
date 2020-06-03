@@ -1,8 +1,7 @@
 import React from 'react';
 import { BodyNav, H3, Image, Project } from "../Styled-Components/StyledElements";
 import chatbot from "../Styled-Components/elements/chatbot.gif";
-import beyonce from "../Styled-Components/elements/beyonce.gif";
-import Emoji from "./Emoji";
+import beyonce from "../Styled-Components/elements/beyonce.gif"; 
 
 const Body = () => {
     return (

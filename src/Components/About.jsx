@@ -16,7 +16,7 @@ const About = () => {
         <br/>
         <br/>
 
-        Anyhow, armed with my strong analytical and communication skills from my engineering degree, I started looking for a more meaningful career. I participated and won a few startups competitions, went through two incubators and I was hook to the startup life. 
+        Anyhow, armed with my strong analytical and communication skills from my engineering degree, I started looking for a more meaningful career. I participated and won a few startups competitions, founded two startups and Bibidi Bobidi Bou I was hook to the startup life. 
         <br/>
         <br/>
 
@@ -28,7 +28,7 @@ const About = () => {
 
         <br/>
         <br/>
-        My ultimate goal is to work as a product manager in a fast growing startup. I know I didn't need to be a developer to become a product manager, but learning how to program has given me a better understanding of how software works and will allowed me to work better with the engineers on my team.
+        My goal is to work as a product manager in a fast growing startup. I know I didn't need to be a developer to become a product manager, but learning how to program has given me a better understanding of how software works and will allowed me to work better with the engineers on my team.
 
          <br/>
         <br/>
