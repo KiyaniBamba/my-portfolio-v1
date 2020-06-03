@@ -7,12 +7,14 @@ const Body = () => {
     return (
         <BodyNav>
             Hi, I am Ki. <br/>
-            I'm a french-ivoirian full stack developer, and I like to build things. 
+           A problem solver, with 2 years of experience as a startup founder and entrepreneur. Engineering
+background provides strong analytical and communication skills. Recently completed a 9-month
+coding program to better understand how software works and use skills in real-world scenarios. 
             <br/>
             <br/>
-            <H3> A few examples: </H3>
-            <Image>
-                <Project>
+            {/* <H3> A few examples: </H3> */}
+            {/* <Image> */}
+                {/* <Project>
                 <div >
                     <img  src={chatbot} className="chatbot" alt="loading..." />  
                 </div>  
@@ -62,24 +64,9 @@ const Body = () => {
                     <img  src={beyonce} className="beyonce" alt="loading..." />  
                 </div>  
 
-                </Project>
-                {/* <Project>
-                <div>
-                    image
-                </div>
-                <div>
-                    <h2>
-                        We Go further - Online Community 
-                    </h2>
-                    <p>
-                        Description
-                    </p>
-                    <p>
-                        Github. Product Roadmap. 
-                    </p>
-                </div>
                 </Project> */}
-            </Image>
+
+            {/* </Image> */}
 
         </BodyNav>
     )
