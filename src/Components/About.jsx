@@ -16,7 +16,7 @@ const About = () => {
         <br/>
         <br/>
 
-        Anyhow, armed with my strong analytical and communication skills from my engineering degree, I started looking for a more meaningful career. I participated and won a few startups competitions, founded two startups and Bibidi Bobidi Bou I was hook to the startup life. 
+        Anyhow, armed with my strong analytical and communication skills from my engineering degree, I started looking for a more meaningful career. I participated and won a few startups competitions, founded two startups and Bibidi Bobidi Bou I was hooked to the startup life. 
         <br/>
         <br/>
 
