@@ -56,11 +56,11 @@ const About = () => {
             <br/>
 
             <H3> What books are you reading at the moment? </H3>
-            <P>The Art of doing science and engineering by Richard W. Hamming and The old man and the sea by Ernest Hemingway.</P>
+            <P> [16/06/20] The Art of doing science and engineering by Richard W. Hamming and The old man and the sea by Ernest Hemingway.</P>
             <br/>
 
             <H3> Anything you would like to add? </H3>
-            <P>I like to say that I play piano even though I didn't play seriously since 2012. I plan to get back to it in 2021 though.</P>
+            <P>I like to say that I play piano even though I didn't play seriously since 2012. I plan to get back to it in 2021 though. Oh, I also love anime!</P>
             <br/>
 
 
