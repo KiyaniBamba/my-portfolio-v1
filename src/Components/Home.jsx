@@ -12,15 +12,13 @@ const Body = () => {
             <h3>
             I am a Product Manager and Full Stack Developer from Ivory Coast, based in Canada. <br/><br/>
 
-            If there's one thing you need to know about me, it's that I'm really curious. I enjoy discovering new products and understanding how things work. This is also the reason why I decided a few years ago to write on The Internet. <br/><br/>
+            I enjoy discovering new products and understanding how things work. <br/><br/>
            
-           Writing is a great way to improve my thinking, increase my knowledge and most importantly to meet friends who share my interests ! <br/><br/>  
-           
-           You can find on <a style={{color: 'black', textDecoration: 'underline'}} href="https://medium.com/@bamba.kiyani">Medium</a>, the theories on life and work as experienced by Ki and on Substack  <a style={{color: 'black', textDecoration: 'underline'}} href="https://compterendu.substack.com/archive?utm_source=menu-dropdown"> Le Compte-Rendu Tech</a>, a weekly newsletter covering the African Tech ecosystem (warning: it's in French). <br/><br/>
+           You can find on me on <a style={{color: 'black', textDecoration: 'underline'}} href="https://medium.com/@bamba.kiyani">Medium</a>, where I share my theories on life and products and on Substack  <a style={{color: 'black', textDecoration: 'underline'}} href="https://compterendu.substack.com/archive?utm_source=menu-dropdown"> Le Compte-Rendu Tech</a>, a weekly newsletter covering the African Tech ecosystem (warning: it's in French). <br/><br/>
 
            Feel free to contact me, <br/><br/>
 
-          In the meantime, take care of yourself, alright? Alright.<br/><br/>
+          In the meantime, take care of yourself.<br/><br/>
 
           Best,<br/>
           Ki. 
