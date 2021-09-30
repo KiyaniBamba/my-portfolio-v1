@@ -14,7 +14,7 @@ const Body = () => {
 
             I enjoy discovering new products and understanding how things work. <br/><br/>
            
-           You can find me on <a style={{color: 'black', textDecoration: 'underline'}} href="https://medium.com/@bamba.kiyani">Medium</a>, where I share my theories on life and products and on Substack at <a style={{color: 'black', textDecoration: 'underline'}} href="https://compterendu.substack.com/archive?utm_source=menu-dropdown"> Le Compte-Rendu Tech</a>, a weekly newsletter covering the African Tech ecosystem (warning: it's in French). <br/><br/>
+           You can find me on <a style={{color: 'black', textDecoration: 'underline'}} href="https://bamba-kiyani.medium.com/">Medium</a>, where I share my theories on life and products and on Substack at <a style={{color: 'black', textDecoration: 'underline'}} href="https://compterendu.substack.com/welcome"> Le Compte-Rendu Tech</a>, a weekly newsletter covering the African Tech ecosystem (warning: it's in French). <br/><br/>
 
            Feel free to contact me, <br/><br/>
 
