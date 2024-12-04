@@ -12,7 +12,7 @@ const About = () => {
         <br/>
         <br/>
 
-        For the little story, I originally planned to do something totally different. I wanted to be a chemical engineer (!). However, after my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to - Still, I graduated. 
+        For the little story, I originally planned to do something totally different. I wanted to be a chemical engineer. However, after my second internship, I realized that although it was interesting, this was not something I was ready to dedicate my life to - Still, I graduated. 
         <br/>
         <br/>
 
