@@ -7,7 +7,7 @@ const Body = () => {
     return (
         <BodyNav>
            <h1>
-             Hi, I am Ki. <span>&#128075;</span><br/>
+             Hi, I am Ki! <span>&#128075;</span><br/>
             </h1><br/> <br/> 
             <h3>
             I am a Product Manager and Full Stack Developer from Ivory Coast, based in Canada. <br/><br/>
